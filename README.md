@@ -1,3 +1,3 @@
 # sezam 
 Do ćwiczeń z PU
-siema
+siema, to ja
