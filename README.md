@@ -1,1 +1,2 @@
-# sezam
+# sezam 
+Do ćwiczeń z PU
